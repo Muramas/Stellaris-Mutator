@@ -17,6 +17,6 @@ A mod with the aim to make MP stellaris more enjoyable by trying different solut
 # How to use Mod
 
 - Download github software
-- Select to clone the repository in C:\user\<user<\Documents\Paradox Interactive\Stellaris\mod
-- Move the stellaris-mutator-mod.mod file from the folder created into C:\user\<user>\Documents\Paradox Interactive\Stellaris\mod
+- Select to clone the repository in `C:\user\(user)\Documents\Paradox Interactive\Stellaris\mod`
+- Move the stellaris-mutator-mod.mod file from the folder created into `C:\user\(user)\Documents\Paradox Interactive\Stellaris\mod`
 - Select Stellaris Mutator Mod from the mods list when loading the game
