@@ -75,7 +75,7 @@ tech_mine_volatile_motes = {
 	weight = @tier2weight1
 	
 	weight_modifier = {
-		factor = 4
+		factor = 3
 		modifier = {
 			factor = 2
 			research_leader = {
@@ -85,7 +85,7 @@ tech_mine_volatile_motes = {
 		}
 		modifier = {
 			factor = 0
-			NOT = {
+			NOR = {
 				any_owned_planet = {
 					OR = {
 						has_deposit = d_dust_caverns
@@ -180,7 +180,7 @@ tech_mine_exotic_gases = {
 	weight = @tier2weight1
 	
 	weight_modifier = {
-		factor = 4
+		factor = 3
 		modifier = {
 			factor = 2
 			research_leader = {
@@ -190,7 +190,7 @@ tech_mine_exotic_gases = {
 		}
 		modifier = {
 			factor = 0
-			NOT = {
+			NOR = {
 				any_owned_planet = {
 					OR = {
 						has_deposit = d_bubbling_swamp
@@ -284,7 +284,7 @@ tech_mine_rare_crystals = {
 	weight = @tier2weight1
 	
 	weight_modifier = {
-		factor = 4
+		factor = 3
 		modifier = {
 			factor = 2
 			research_leader = {
@@ -294,7 +294,7 @@ tech_mine_rare_crystals = {
 		}
 		modifier = {
 			factor = 0
-			NOT = {
+			NOR = {
 				any_owned_planet = {
 					OR = {
 						has_deposit = d_crystalline_caverns
