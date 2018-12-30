@@ -1036,14 +1036,14 @@
 		HALF_BREED_SWAP_BASE_SPECIES_CHANCE	= 0.33
 		HALF_BREED_EXTRA_TRAIT_POINTS		= 1
 		HALF_BREED_EXTRA_TRAIT_PICKS		= 1
-
-		TRAIT_MODIFICATION_BASE_COST 		= 00		# This cost is always added to a species modification project so modifying single pops isn't efficient
+ 
+		TRAIT_MODIFICATION_BASE_COST 		= 0			# This cost is always added to a species modification project so modifying single pops isn't efficient
 		TRAIT_CLIMATE_MODIFICATION_COST		= 1
-		TRAIT_MODIFICATION_COST_MULT 		= 40 		# species modification cost to be multiplied with the absolute trait cost of all changes applied, per pop
+		TRAIT_MODIFICATION_COST_MULT 		= 30 		# species modification cost to be multiplied with the absolute trait cost of all changes applied, per pop
 		MODIFICATION_COST_MULT				= 0			# adds to the above species modification cost, per pop
-		ROBO_TRAIT_MODIFICATION_BASE_COST 	= 00		# This cost is always added to a species modification project so modifying single pops isn't efficient
-		ROBO_TRAIT_MODIFICATION_COST_MULT 	= 40 		# species modification cost to be multiplied with the absolute trait cost of all changes applied, per pop
-		ROBO_MODIFICATION_COST_MULT			= 0	# adds to the above species modification cost, per pop
+		ROBO_TRAIT_MODIFICATION_BASE_COST 	= 0			# This cost is always added to a species modification project so modifying single pops isn't efficient
+		ROBO_TRAIT_MODIFICATION_COST_MULT 	= 30 		# species modification cost to be multiplied with the absolute trait cost of all changes applied, per pop
+		ROBO_MODIFICATION_COST_MULT			= 0			# adds to the above species modification cost, per pop
 		UPLIFT_COST_BASE					= 1000
 		TRAIT_MODIFICATION_TIME_LIMIT		= 30		# Timeout for species modification special projects
 		HOMEWORLD_HABITABILITY				= 0.3		# Habitability on homeworld is increased by this value
