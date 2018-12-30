@@ -12,7 +12,7 @@ A mod with the aim to make MP stellaris more enjoyable by trying different solut
 - Federation status without fed fleet
 - Stations giving speed aura
 - Demoting pops faster
-
+- Remove Defense platoform upkeep
 
 # How to use Mod
 
