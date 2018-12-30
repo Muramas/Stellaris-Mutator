@@ -6,13 +6,17 @@ A mod with the aim to make MP stellaris more enjoyable by trying different solut
 - All stars have energy
 - All 2 mineral orbitals are 3
 - Change gene tailoring cost. Remove base cost and increase cost per pop.
+- Stratified Society faction is happy, even if you have robots (Ghost73)
+- Demoting pops faster (Rulers 3600 / specialist 1800 -> 360 days)
 
 # Tests To-Do
-
 - Federation status without fed fleet
 - Stations giving speed aura
-- Demoting pops faster
 - Remove Defense platoform upkeep
+
+# Future Tests - Need more knowledge
+- Setup a VS arena map (Test run complete but won't load with 2.2 due to tile changes)
+- Modify wormhole tech to be researchable after seeing a wormhole
 
 # How to use Mod
 
