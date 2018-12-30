@@ -5,14 +5,14 @@ A mod with the aim to make MP stellaris more enjoyable by trying different solut
 # Test In Progress
 - All stars have energy
 - All 2 mineral orbitals are 3
-
+- Change gene tailoring cost. Remove base cost and increase cost per pop.
 
 # Tests To-Do
 
 - Federation status without fed fleet
 - Stations giving speed aura
 - Demoting pops faster
-
+- Remove Defense platoform upkeep
 
 # How to use Mod
 
