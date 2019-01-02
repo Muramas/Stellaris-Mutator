@@ -489,7 +489,7 @@
 		TECH_COST_DEFAULT = 1.0
 		TECH_COST_MIN = 0.25
 		TECH_COST_MAX = 5.00
-		TECH_COST_SLIDER_INTERVAL = 0.25
+		TECH_COST_SLIDER_INTERVAL = 0.05
 		
 		SHIPYARD_MAX_OVER_CAPACITY = 5.0		# Max amount of ships that we should want to be queued in one shipyard (x shipyard capacity)
 		SHIPYARD_DISTANCE_DIV_FACTOR = 2.0		# The lower this is, the more reinforce tends to use the closest shipyard(s) available. Strongly NOT recommended to have this <1
