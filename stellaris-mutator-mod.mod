@@ -6,4 +6,5 @@ tags={
 	"Overhaul"
 	"Gameplay"
 }
+picture="mutator.jpg"
 supported_version="2.2.*"
