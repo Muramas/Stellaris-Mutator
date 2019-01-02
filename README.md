@@ -1,13 +1,19 @@
 # Stellaris-Mutator
 A mod with the aim to make MP stellaris more enjoyable by trying different solutions to issues commonly found in stellaris.
 
+# Reddit
+https://www.reddit.com/r/Stellaris_Mutator/
+
+# Live mod (Will be a few patches behind Development) - Steam Workshop
+https://steamcommunity.com/sharedfiles/filedetails/?id=1611541820&searchtext=
+
 
 # Test In Progress
-- All stars have energy
+- All stars have 2 energy oribtals
 - All 2 mineral orbitals are 3
 - Change gene tailoring cost. Remove base cost and increase cost per pop.
 - Stratified Society faction is happy, even if you have robots (Ghost73)
-- Demoting pops faster (Rulers 3600 / specialist 1800 -> 360 days)
+- Demoting pops faster - Rulers 3600 / specialist 1800 -> 360 days
 - You need more tech in the current tier before moving up Tier 2 = 10, Tier 3 = 10, Tier 4 = 7, Tier 5 = 6
 - When you have an SR in your territory, the tech shows up more often. Also having an leader with the trait expertise materials also helps more (Fixed an issue with a NOT where it should be a NOR)
 - Stations give sublight speed, winddown, windup aura per station level. 20-> 40%
