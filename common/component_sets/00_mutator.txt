@@ -1,0 +1,40 @@
+component_set = {
+	key = "mutator_aura_outpost"
+	
+	required_component_set = yes
+	icon = "GFX_ship_part_sensor"
+	icon_frame = 1	
+}
+
+component_set = {
+	key = "mutator_aura_starport"
+	
+	required_component_set = yes
+	icon = "GFX_ship_part_sensor"
+	icon_frame = 1	
+}
+
+component_set = {
+	key = "mutator_aura_starhold"
+	
+	required_component_set = yes
+	icon = "GFX_ship_part_sensor"
+	icon_frame = 1	
+}
+
+
+component_set = {
+	key = "mutator_aura_starfortress"
+	
+	required_component_set = yes
+	icon = "GFX_ship_part_sensor"
+	icon_frame = 1	
+}
+
+component_set = {
+	key = "mutator_aura_citadel"
+	
+	required_component_set = yes
+	icon = "GFX_ship_part_sensor"
+	icon_frame = 1	
+}

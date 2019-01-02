@@ -1,0 +1,181 @@
+utility_component_template = {
+	key = "STARBASE_MUTATOR_SPEED_outpost"
+	size = medium
+	icon = "GFX_ship_part_aura_snare"
+	icon_frame = 1
+	power = 0
+
+	component_set = "mutator_aura_outpost"
+
+	
+	class_restriction = { shipclass_starbase }
+
+	friendly_aura = {
+		name = "aura_mutator_speed"
+		system_wide = yes
+
+		stack_info = {
+			id = friendly_speed_aura
+			priority = 10
+		}
+
+		modifier = {
+			ship_windup_mult = -0.20
+			ship_winddown_mult = -0.20
+			ship_speed_mult = 0.20
+		}
+
+		graphics = {
+			ship_effect = {
+				entity = "ship_aura_positive_entity"
+				dynamic_scale = no
+			}
+		}
+	}
+}
+
+utility_component_template = {
+	key = "STARBASE_MUTATOR_SPEED_starport"
+	size = medium
+	icon = "GFX_ship_part_aura_snare"
+	icon_frame = 1
+	power = 0
+
+	component_set = "mutator_aura_starport"
+
+	
+	class_restriction = { shipclass_starbase }
+
+	friendly_aura = {
+		name = "aura_mutator_speed"
+		system_wide = yes
+
+		stack_info = {
+			id = friendly_speed_aura
+			priority = 10
+		}
+
+		modifier = {
+			ship_windup_mult = -0.25
+			ship_winddown_mult = -0.25
+			ship_speed_mult = 0.25
+		}
+
+		graphics = {
+			ship_effect = {
+				entity = "ship_aura_positive_entity"
+				dynamic_scale = no
+			}
+		}
+	}
+}
+
+utility_component_template = {
+	key = "STARBASE_MUTATOR_SPEED_starhold"
+	size = medium
+	icon = "GFX_ship_part_aura_snare"
+	icon_frame = 1
+	power = 0
+
+	component_set = "mutator_aura_starhold"
+
+	
+	class_restriction = { shipclass_starbase }
+
+	friendly_aura = {
+		name = "aura_mutator_speed"
+		system_wide = yes
+
+		stack_info = {
+			id = friendly_speed_aura
+			priority = 10
+		}
+
+		modifier = {
+			ship_windup_mult = -0.30
+			ship_winddown_mult = -0.30
+			ship_speed_mult = 0.3
+		}
+
+		graphics = {
+			ship_effect = {
+				entity = "ship_aura_positive_entity"
+				dynamic_scale = no
+			}
+		}
+	}
+}
+
+utility_component_template = {
+	key = "STARBASE_MUTATOR_SPEED_starfortress"
+	size = medium
+	icon = "GFX_ship_part_aura_snare"
+	icon_frame = 1
+	power = 0
+
+	component_set = "mutator_aura_starfortress"
+
+	
+	class_restriction = { shipclass_starbase }
+
+	friendly_aura = {
+		name = "aura_mutator_speed"
+		system_wide = yes
+
+		stack_info = {
+			id = friendly_speed_aura
+			priority = 10
+		}
+
+		modifier = {
+			ship_windup_mult = -0.35
+			ship_winddown_mult = -0.35
+			ship_speed_mult = 0.35
+		}
+
+		graphics = {
+			ship_effect = {
+				entity = "ship_aura_positive_entity"
+				dynamic_scale = no
+			}
+		}
+	}
+}
+
+
+
+utility_component_template = {
+	key = "STARBASE_MUTATOR_SPEED"
+	size = medium
+	icon = "GFX_ship_part_aura_snare"
+	icon_frame = 1
+	power = 0
+
+	component_set = "mutator_aura_citadel"
+
+	
+	class_restriction = { shipclass_starbase }
+
+	friendly_aura = {
+		name = "aura_mutator_speed"
+		system_wide = yes
+
+		stack_info = {
+			id = friendly_speed_aura
+			priority = 10
+		}
+
+		modifier = {
+			ship_windup_mult = -0.40
+			ship_winddown_mult = -0.40
+			ship_speed_mult = 0.4
+		}
+
+		graphics = {
+			ship_effect = {
+				entity = "ship_aura_positive_entity"
+				dynamic_scale = no
+			}
+		}
+	}
+}
