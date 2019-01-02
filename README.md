@@ -16,6 +16,9 @@ A mod with the aim to make MP stellaris more enjoyable by trying different solut
 
 
 # Tests To-Do
+- Increase planet size in galaxy generation to at least 12
+- Increase homeworld planet generation to at least 18
+- Disable total war
 - Federation status without fed fleet
 - Remove Defense platoform upkeep (prob not duable due to how power is calculated)
 - Make commuincatons have a countdown timer to limit how often they can demand tribute/insult things so it is not spammable.
