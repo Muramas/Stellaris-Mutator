@@ -4,7 +4,8 @@ A mod with the aim to make MP stellaris more enjoyable by trying different solut
 # Reddit
 https://www.reddit.com/r/Stellaris_Mutator/
 
-# Live mod (Will be a few patches behind Development) - Steam Workshop
+# Live mod - Steam workshop
+(Will be a few patches behind Development)
 https://steamcommunity.com/sharedfiles/filedetails/?id=1611541820&searchtext=
 
 
