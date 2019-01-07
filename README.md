@@ -19,11 +19,10 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1611541820&searchtext=
 - Stations give sublight speed, winddown, windup aura per station level. 20-> 40%
 - Tech slider interval to 5% from 25%
 - Vassal Changes: CB last 100 years from 1. You can demand vassal / tribute from anyone. Does not matter how strong they are anymore.
-
+- Homeworld planet generation is 18-20 from 16-20
 
 # Tests To-Do
 - Increase planet size in galaxy generation to at least 12
-- Increase homeworld planet generation to at least 18
 - Disable total war
 - Federation status without fed fleet
 - Remove Defense platoform upkeep (prob not duable due to how power is calculated)
