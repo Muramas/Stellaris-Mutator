@@ -20,9 +20,9 @@ utility_component_template = {
 		}
 
 		modifier = {
-			ship_windup_mult = -0.20
-			ship_winddown_mult = -0.20
-			ship_speed_mult = 0.20
+			ship_windup_mult = -0.15
+			ship_winddown_mult = -0.15
+			ship_speed_mult = 0.15
 		}
 
 		graphics = {
@@ -56,9 +56,9 @@ utility_component_template = {
 		}
 
 		modifier = {
-			ship_windup_mult = -0.25
-			ship_winddown_mult = -0.25
-			ship_speed_mult = 0.25
+			ship_windup_mult = -0.20
+			ship_winddown_mult = -0.20
+			ship_speed_mult = 0.20
 		}
 
 		graphics = {
@@ -92,9 +92,9 @@ utility_component_template = {
 		}
 
 		modifier = {
-			ship_windup_mult = -0.30
-			ship_winddown_mult = -0.30
-			ship_speed_mult = 0.3
+			ship_windup_mult = -0.25
+			ship_winddown_mult = -0.25
+			ship_speed_mult = 0.25
 		}
 
 		graphics = {
@@ -128,9 +128,9 @@ utility_component_template = {
 		}
 
 		modifier = {
-			ship_windup_mult = -0.35
-			ship_winddown_mult = -0.35
-			ship_speed_mult = 0.35
+			ship_windup_mult = -0.30
+			ship_winddown_mult = -0.30
+			ship_speed_mult = 0.30
 		}
 
 		graphics = {
@@ -166,9 +166,9 @@ utility_component_template = {
 		}
 
 		modifier = {
-			ship_windup_mult = -0.40
-			ship_winddown_mult = -0.40
-			ship_speed_mult = 0.4
+			ship_windup_mult = -0.35
+			ship_winddown_mult = -0.35
+			ship_speed_mult = 0.35
 		}
 
 		graphics = {
