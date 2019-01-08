@@ -75,7 +75,7 @@ tech_mine_volatile_motes = {
 	weight = @tier2weight1
 	
 	weight_modifier = {
-		factor = 3
+		factor = 4
 		modifier = {
 			factor = 2
 			research_leader = {
@@ -127,7 +127,7 @@ tech_volatile_motes = {
 	weight = @tier2weight1
 	
 	weight_modifier = {
-		factor = 2
+		factor = 3
 		modifier = {
 			factor = 0.5
 			OR = {
@@ -180,7 +180,7 @@ tech_mine_exotic_gases = {
 	weight = @tier2weight1
 	
 	weight_modifier = {
-		factor = 3
+		factor = 4
 		modifier = {
 			factor = 2
 			research_leader = {
@@ -232,7 +232,7 @@ tech_exotic_gases = {
 	weight = @tier2weight1
 	
 	weight_modifier = {
-		factor = 2
+		factor = 3
 		modifier = {
 			factor = 0.5
 			OR = {
@@ -284,7 +284,7 @@ tech_mine_rare_crystals = {
 	weight = @tier2weight1
 	
 	weight_modifier = {
-		factor = 3
+		factor = 4
 		modifier = {
 			factor = 2
 			research_leader = {
@@ -337,7 +337,7 @@ tech_rare_crystals = {
 	weight = @tier2weight1
 	
 	weight_modifier = {
-		factor = 2
+		factor = 3
 		modifier = {
 			factor = 0.5
 			OR = {
