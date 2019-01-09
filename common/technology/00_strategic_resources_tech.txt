@@ -190,7 +190,7 @@ tech_mine_exotic_gases = {
 		}
 		modifier = {
 			factor = 0
-			NOR = {
+			NOT = {
 				any_owned_planet = {
 					OR = {
 						has_deposit = d_bubbling_swamp
@@ -294,7 +294,7 @@ tech_mine_rare_crystals = {
 		}
 		modifier = {
 			factor = 0
-			NOR = {
+			NOT = {
 				any_owned_planet = {
 					OR = {
 						has_deposit = d_crystalline_caverns
@@ -382,14 +382,14 @@ tech_rare_crystals = {
 
 #Zro Distillation
 tech_mine_zro = {
-	cost = @tier2cost1
+	cost = @tier3cost2
 	area = society
-	tier = 2
+	tier = 3
 	category = { psionics }
 	is_rare = yes	
 	prerequisites = { "tech_sensors_3" "tech_psionic_theory" }
 	is_reverse_engineerable = no
-	weight = @tier2weight1
+	weight = @tier3weight2
 		
 	## unlock see zro ore
 	
@@ -434,12 +434,12 @@ tech_mine_zro = {
 
 #Dark Matter Drawing
 tech_mine_dark_matter = {
-	cost = @tier2cost1
+	cost = @tier3cost3
 	area = physics
 	tier = 3
 	category = { field_manipulation }
 	prerequisites = { "tech_sensors_4" }
-	weight = @tier2weight1
+	weight = @tier3weight3
 		
 	## unlock see dark matter
 	
@@ -456,7 +456,7 @@ tech_mine_dark_matter = {
 			factor = 0
 			NOR = {
 				has_country_flag = dark_matter_found
-				any_system_within_border = { any_system_planet = { has_resource = { type = sr_dark_matter amount > 0 } } }
+				any_system_within_border = { any_planet = { has_resource = { type = sr_dark_matter amount > 0 } } }
 				any_relation = {
 					AND = {
 						is_country_type = default
@@ -496,7 +496,7 @@ tech_nanite_transmutation = {
 	weight_modifier = {
 		modifier = {
 			factor = 0
-			NOT = { any_system_within_border = { any_system_planet = { has_resource = { type = nanites amount > 0 } } } }
+			NOT = { any_system_within_border = { any_planet = { has_resource = { type = nanites amount > 0 } } } }
 		}
 		modifier = {
 			factor = 1.25
