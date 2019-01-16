@@ -12,7 +12,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1611541820&searchtext=
 - All stars have 2 energy oribtals
 - All 2 mineral orbitals are 3
 - Change gene tailoring cost. Remove base cost and increase cost per pop.
-- (bugfix) Stratified Society faction is happy, even if you have robots (Ghost73)
+- (bugfix) Totalitarian faction fix for having robots in a stratified society. Previously it would be angry if you have robots (Ghost73)
 - Demoting pops faster - Rulers 3600 -> 720 / specialist 1800 -> 360 days
 - You need more tech in the current tier before moving up Tier 2 = 10, Tier 3 = 10, Tier 4 = 7, Tier 5 = 6
 - When you have an SR in your territory, the tech shows up more often. Also having an leader with the trait expertise materials also helps more (Fixed an issue with a NOT where it should be a NOR)
@@ -20,7 +20,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1611541820&searchtext=
 - Tech slider interval to 5% from 25%
 - Vassal Changes: CB last 100 years from 1. You can demand vassal / tribute from anyone. Does not matter how strong they are anymore.
 - Homeworld planet generation is 18-20 from 16-20
-- Increase the # of tech choices from 3 -> 4
 - Modify the empire sprawl numbers from 2 -> 1 from systems and colonies 2 -> 3
 
 # Tests To-Do
@@ -30,6 +29,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1611541820&searchtext=
 - Remove Defense platoform upkeep (prob not duable due to how power is calculated)
 - Make commuincatons have a countdown timer to limit how often they can demand tribute/insult things so it is not spammable.
 
+# Tests on hold
+- Increase the # of tech choices from 3 -> 4
 
 # Future Tests - Need more knowledge
 - Setup a VS arena map (Test run complete but won't load with 2.2 due to tile changes)
